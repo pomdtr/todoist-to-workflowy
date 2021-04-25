@@ -24,3 +24,5 @@ This bookmarlet allows you to capture all tasks from your Todoist inbox into a s
     ```
 
 1. Use [this website](https://caiorss.github.io/bookmarklet-maker/) to convert the script to a bookmarklet
+    1. Usage: Paste a code into the form and click on the button generate.
+    1. To install the bookmarklet drag and drop it to the bookmars toolbar.
