@@ -1,4 +1,8 @@
-# Installation Guide
+# Todoist to Workflowy Bookmarklet
+
+This bookmarlet allows you to capture all tasks from your Todoist inbox into a specific workflowy node with a single click.
+
+## Installation Guide
 
 1. Get the required parameters
     1. **WFInboxShortId** (required)
